@@ -30,7 +30,7 @@
 статическое - ищет дефекты
 динамическое - отказ от системы
 
-![image](https://user-images.githubusercontent.com/112687883/215058251-ec4499de-1d1b-42eb-8556-d5d719eb8b0f.png)
+
 
 варианты
 
