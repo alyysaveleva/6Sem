@@ -1,5 +1,4 @@
 ![image](https://user-images.githubusercontent.com/112688317/232414891-8504993a-a356-4b6b-b07e-1dfbe1716eb3.png)
-![image](https://user-images.githubusercontent.com/112688317/232414992-4057aaa5-56de-4aaf-a572-4822af309a21.png)
 v-модель интерактивная или инкрементальная модель
 ![image](https://user-images.githubusercontent.com/112688317/232415070-0a68736f-e0e3-44a5-95e8-8bcb74d70b4a.png)
 ![image](https://user-images.githubusercontent.com/112688317/232415090-4a2eacd1-7785-4e12-a3ae-69b8719e7057.png)
