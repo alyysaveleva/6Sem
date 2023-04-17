@@ -97,7 +97,7 @@ unit test блок кода, должен проверять одно дейст
 Arrange-Act-Assert предусловие (arrange) - какие у нас переменные и ожидаемый результат действие (act) - сам тест постусловие (assert) - верификация результата теста, оформление, читаемость текста и качество документации к тестируемой продукции.
 ![image](https://user-images.githubusercontent.com/112687883/224287279-415195d7-2f89-4ea5-acc9-d434fb47ecb0.png)
 ![image](https://user-images.githubusercontent.com/112688317/232416340-7752af26-7722-4749-9e63-10f121fd675f.png)
-![image](https://user-images.githubusercontent.com/112688317/232416364-a340a94d-6cb8-4f00-ac44-38f52db072ed.png)
+
 общедоступный статический файл с плавающей точкой Del (с плавающей точкой a, с плавающей точкой b) { float del = 0; /если (b == 0) { Консоль.WriteLine("Ошибка"); } else/ del = a / b; верните del; }
 
 есвсть встроенные ошибки в программу пример ошибки division by constant zero если мы не знаем какая может быть ошибка то мы не можем использовать if и else в программах есть способы для обработки ошибок, называются исключения структура исключения : код, который мы хотим выполнить и поиск ошибок
@@ -106,7 +106,6 @@ https://vc.ru/dev/137335-unit-testy-na-c?ysclid=lfc5ae2lnm197673354
 
 try new division by constant zero добавление нового искючения
 ![image](https://user-images.githubusercontent.com/112688317/232416538-f0b4c4ed-34f4-4d0e-a80a-0b5d547a8750.png)
-![image](https://user-images.githubusercontent.com/112688317/232416601-2a291503-9f67-4696-9179-931afa5b617c.png)
 ![image](https://user-images.githubusercontent.com/112688317/232416637-d9f6115b-7864-4ef3-a29d-05c134a3f2cb.png)
 ![image](https://user-images.githubusercontent.com/112688317/232416679-4464c0b8-0004-48bc-b6af-22af23c802b5.png)
 
