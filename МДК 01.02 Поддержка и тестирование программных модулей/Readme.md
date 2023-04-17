@@ -1,7 +1,31 @@
 ![image](https://user-images.githubusercontent.com/112688317/232414891-8504993a-a356-4b6b-b07e-1dfbe1716eb3.png)
+![image](https://user-images.githubusercontent.com/112688317/232414992-4057aaa5-56de-4aaf-a572-4822af309a21.png)
+v-модель интерактивная или инкрементальная модель
+![image](https://user-images.githubusercontent.com/112688317/232415070-0a68736f-e0e3-44a5-95e8-8bcb74d70b4a.png)
+![image](https://user-images.githubusercontent.com/112688317/232415090-4a2eacd1-7785-4e12-a3ae-69b8719e7057.png)
+инкрементная модель-полностью готов отдельных элемент проекта. проблемы возникают при соединении элементов интеркативная модель-сначала делается набросок всего проекта потом вносятся доработки +
 
+гибкость в измененияъх
+учимся на ошибках
+высокая скорость
+неизвестна стоимость
+проблемы с архитектурой трудности тестирования нет четкого плана для устранения дефектов
+Спиральная модель
+![image](https://user-images.githubusercontent.com/112688317/232415150-61b11918-e1d7-4162-8bf9-46524c086cd6.png)
+![image](https://user-images.githubusercontent.com/112688317/232415180-3c53d81c-85ca-4111-a886-75800b294264.png)
++ управление рисками
+сложность проблема тестирования при гибкой или архитектуре
 
+Роль тестирования
 
+независимость тестированияя разработчтк тестирует свой код незвисимые тстировщики независимая команда или группа тестирования разработчтки тестируют собственный код
+
+команда тестирования
+![image](https://user-images.githubusercontent.com/112688317/232415288-09cb2d5a-b003-46b2-9736-ff7964dcfe4f.png)
+![image](https://user-images.githubusercontent.com/112688317/232415318-c8ad0938-33ec-461e-bc9c-f2f6435e900a.png)
+![image](https://user-images.githubusercontent.com/112688317/232415366-763e898f-8426-42c4-83dc-4d3787179998.png)
+![image](https://user-images.githubusercontent.com/112688317/232415401-2b592e38-fb72-4924-a788-be4d7b87d6af.png)
+Руководитель проекта сообщать о проблемах проекта, на тормозить развитие проекта
 
 Типы и уровни тестирования
 
@@ -43,6 +67,51 @@
 
 таблица:
 гравический редактор Paint
+лекция 5 тестовые сценарии тестовый набор: покрытие оператторов и покрытие узлов ветвления(решений) классы эквивалетности классом эквивалентности называют множество входных значений, каждое из еоторых имеет одинаковую вероятность обнаружения конткретного типа ошибок. (четные/нечетные числа)
+![image](https://user-images.githubusercontent.com/112688317/232415799-74c0b22d-9e7a-40f9-b36e-cc98ff3b5fb1.png)
+![image](https://user-images.githubusercontent.com/112688317/232415836-9310847f-4f94-4395-8a6c-8e34d981073d.png)
+#включить
 
+используя пространство имен std;
 
+int main() { cout<<"Hello World"; index = input ("Введите номер: ") print(index) a=0 while a != "Все верно": while index.isdigit(): while len(index) != 11: indexa = input ("Неверная длина, введите номер: ") while index[0] == "0": print("Нельзя начать с 0") print("Все верно") a = "Все верно" else: index = input("Оставьте цифры, введите номер: ")
+return 0; }
+
+Тестовый набор Тестовая документация
+
+план тестирования https://radar4site.ru/upload/000/u1/4/a/test-plan.pdf
+https://www.software-testing.ru/images/stories/library/checklist-mobile-app-testen.pdf
+критерии приложения в wpf и android studio:
+
+Контролирующие элементы максимально ненавязчивы (к примеру, исчезают, если не используются длительное время).
+Основная функция приложения удобопонятна и самоочевидна. Было понятно о чем производство
+Добавьте иконку прогресса ("Загружается…") для ситуаций с низкой производительностью, желательно с внятным сообщением.
+Клавиатура подстраивается под ожидаемый ввод (к примеру, цифры/буквы).
+https://habr.com/ru/post/542422/ https://www.software-testing.ru/images/stories/library/complete-web-application-testing-checklis.pdf https://checklists.expert/checklist/73222-cheklist-po-igre
+
+https://docs.google.com/document/d/1HOLKqPUAQFTGmtaQGacwKFFMZiCr6q8s/edit#heading=h.gjdgxs
+
+требования к тестировщику по
+
+навыки межличностного общения умение критиковать и воспринимать критику оказывать влияние на друших вести переговоры
+
+unit test блок кода, должен проверять одно действие и быть универсальным
+
+свойства: понятность для пользователей быстрая работа
+
+Arrange-Act-Assert предусловие (arrange) - какие у нас переменные и ожидаемый результат действие (act) - сам тест постусловие (assert) - верификация результата теста, оформление, читаемость текста и качество документации к тестируемой продукции.
+![image](https://user-images.githubusercontent.com/112687883/224287279-415195d7-2f89-4ea5-acc9-d434fb47ecb0.png)
+![image](https://user-images.githubusercontent.com/112688317/232416340-7752af26-7722-4749-9e63-10f121fd675f.png)
+![image](https://user-images.githubusercontent.com/112688317/232416364-a340a94d-6cb8-4f00-ac44-38f52db072ed.png)
+общедоступный статический файл с плавающей точкой Del (с плавающей точкой a, с плавающей точкой b) { float del = 0; /если (b == 0) { Консоль.WriteLine("Ошибка"); } else/ del = a / b; верните del; }
+
+есвсть встроенные ошибки в программу пример ошибки division by constant zero если мы не знаем какая может быть ошибка то мы не можем использовать if и else в программах есть способы для обработки ошибок, называются исключения структура исключения : код, который мы хотим выполнить и поиск ошибок
+
+https://vc.ru/dev/137335-unit-testy-na-c?ysclid=lfc5ae2lnm197673354
+
+try new division by constant zero добавление нового искючения
+![image](https://user-images.githubusercontent.com/112688317/232416538-f0b4c4ed-34f4-4d0e-a80a-0b5d547a8750.png)
+![image](https://user-images.githubusercontent.com/112688317/232416601-2a291503-9f67-4696-9179-931afa5b617c.png)
+![image](https://user-images.githubusercontent.com/112688317/232416637-d9f6115b-7864-4ef3-a29d-05c134a3f2cb.png)
+![image](https://user-images.githubusercontent.com/112688317/232416679-4464c0b8-0004-48bc-b6af-22af23c802b5.png)
 
