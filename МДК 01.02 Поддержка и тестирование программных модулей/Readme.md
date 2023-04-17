@@ -19,8 +19,6 @@ v-модель интерактивная или инкрементальная 
 
 команда тестирования
 ![image](https://user-images.githubusercontent.com/112688317/232415288-09cb2d5a-b003-46b2-9736-ff7964dcfe4f.png)
-![image](https://user-images.githubusercontent.com/112688317/232415318-c8ad0938-33ec-461e-bc9c-f2f6435e900a.png)
-![image](https://user-images.githubusercontent.com/112688317/232415366-763e898f-8426-42c4-83dc-4d3787179998.png)
 ![image](https://user-images.githubusercontent.com/112688317/232415401-2b592e38-fb72-4924-a788-be4d7b87d6af.png)
 Руководитель проекта сообщать о проблемах проекта, на тормозить развитие проекта
 
