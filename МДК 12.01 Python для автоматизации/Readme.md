@@ -393,6 +393,14 @@ cv.destroyAllWindows() # закрывавет все окна программы
 cap.release() # Освобождает ресурсы, используемые программой для видеопотока
 cv.destroyAllWindows() # закрывавет все окна программы
 https://drive.google.com/file/d/1-ZMeNKVViBsazvFFx57F9uCn9oJ3UPFn/view?usp=sharing https://drive.google.com/file/d/1-eSFufJxzCRx7WwK1qjNTY26vSR02K0q/view?usp=sharing
+![237942050-23a5e15c-91ec-462c-af0f-83f85ede3750 pngваавиваива](https://github.com/alyysaveleva/6Sem/assets/131712175/d8d8b07f-5e46-47b7-9dd3-0cdc3269554c)
+![ваиавива](https://github.com/alyysaveleva/6Sem/assets/131712175/e148feb7-c4c6-4fdd-bf27-ef53736748ec)
+![авиваива](https://github.com/alyysaveleva/6Sem/assets/131712175/018a6172-8256-400d-b850-002d62aba6ae)
+![виваива](https://github.com/alyysaveleva/6Sem/assets/131712175/cae97d7d-c898-4890-9f3a-38c016f1c30e)
+![оорооро](https://github.com/alyysaveleva/6Sem/assets/131712175/0541e2c2-3ab6-4e18-94fc-d239de9866ea)
+![порипт](https://github.com/alyysaveleva/6Sem/assets/131712175/947e095f-8e5d-48d1-b90b-d84256a9b93d)
+![алоалрро](https://github.com/alyysaveleva/6Sem/assets/131712175/d8632982-c19a-434a-968c-89d335d5efc8)
+![пиралвалодыдож](https://github.com/alyysaveleva/6Sem/assets/131712175/a65fd21a-ff22-4994-98d6-0af9047c09a7)
 
 
 
