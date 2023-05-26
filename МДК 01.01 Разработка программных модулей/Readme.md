@@ -12,5 +12,5 @@ https://rezume.online/r/ELofNZMR
 ![jjjjjjj](https://github.com/alyysaveleva/6Sem/assets/131712175/d64c20cb-472e-4cfc-93c7-1023f2d9d805)
 ![ooooooo](https://github.com/alyysaveleva/6Sem/assets/131712175/4dc67db9-99c6-480c-971b-a40d072e92f4)
 https://cent-uslug-massaza1.webnode.ru/
-
+https://drive.google.com/file/d/11tucOHjJHhPemamAU_upqUGW6OPKdhmN/view?usp=sharing
 https://drive.google.com/file/d/1hldceIm1PAOivdkemZAPgij02tyFE4QW/view?usp=sharing
