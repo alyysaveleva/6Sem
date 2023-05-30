@@ -174,6 +174,23 @@ $ хранит код завершения последней команды
 ![image](https://user-images.githubusercontent.com/112688317/232414170-45221872-f46c-49e5-9fe3-1ba775976410.png)
 ![image](https://user-images.githubusercontent.com/112688317/232414243-91fd3f48-4f90-48fa-b95c-b9e7aaacd3ff.png)
 ![image](https://user-images.githubusercontent.com/112688317/232414280-a7bfab37-851d-4f10-82e1-7bfc5bb866fb.png)
+задание 2.
+
+работа с файлами
+
+Операция: создать, написать, прочитать, удалить, проверить
+![216910008-bd60cfd0-71fb-4076-9447-9d4935830ab1](https://github.com/alyysaveleva/6Sem/assets/131712175/0cbfba40-2d16-4557-ae9d-6ce7263e247a)
+![00000](https://github.com/alyysaveleva/6Sem/assets/131712175/7ee0607c-2465-478d-a451-a6a005703c1d)
+![216910134-978aa7b9-fc33-4e7d-9251-771448b42919](https://github.com/alyysaveleva/6Sem/assets/131712175/bd5d972d-98b5-410c-92dc-8ea3016c1c7b)
+![====](https://github.com/alyysaveleva/6Sem/assets/131712175/a1d42e33-7834-48b8-8cc4-18fe4c8b0dfd)
+![216910237-252c130b-3e53-4e72-86f6-64dc8ae97ee7](https://github.com/alyysaveleva/6Sem/assets/131712175/8cc7596b-53d9-408a-aa5f-5b3cdff24afc)
+![216910390-5fde6fdd-5ccd-406c-950a-73234a8f7960](https://github.com/alyysaveleva/6Sem/assets/131712175/84ee4cdd-3328-4dc9-b167-1f3355dc0fca)
+![217460161-46d2e37b-ebbf-4e1d-b219-477caefea357](https://github.com/alyysaveleva/6Sem/assets/131712175/51fc5e8e-33e6-4760-9c5c-547cc63c0926)
+![217460208-7907e361-a68a-43c5-a82a-6d085e36ec18](https://github.com/alyysaveleva/6Sem/assets/131712175/e9cd09f3-4e92-40b4-b5e5-09f76c33fc21)
+![217460208-7907e361-a68a-43c5-a82a-6d085e36ec18](https://github.com/alyysaveleva/6Sem/assets/131712175/bb0ea95f-25f6-4b0e-960c-869d3ab5392b)
+![217460281-be553bf8-d4cc-4082-879b-a18714d77e42](https://github.com/alyysaveleva/6Sem/assets/131712175/e3066984-8f26-4329-bc85-779a89d053aa)
+![217460416-01d54fc6-96b1-4113-95fb-bca99270dec3](https://github.com/alyysaveleva/6Sem/assets/131712175/79c3d616-3fc7-4942-b380-4296e3f0dced)
+
 
 
 
