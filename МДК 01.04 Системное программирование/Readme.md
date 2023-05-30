@@ -190,6 +190,32 @@ $ хранит код завершения последней команды
 ![217460208-7907e361-a68a-43c5-a82a-6d085e36ec18](https://github.com/alyysaveleva/6Sem/assets/131712175/bb0ea95f-25f6-4b0e-960c-869d3ab5392b)
 ![217460281-be553bf8-d4cc-4082-879b-a18714d77e42](https://github.com/alyysaveleva/6Sem/assets/131712175/e3066984-8f26-4329-bc85-779a89d053aa)
 ![217460416-01d54fc6-96b1-4113-95fb-bca99270dec3](https://github.com/alyysaveleva/6Sem/assets/131712175/79c3d616-3fc7-4942-b380-4296e3f0dced)
+![222657172-58b41f2d-5bbf-4630-afd9-8f7ee4ed1b24 (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/ccb953f4-259c-4964-a8f3-da45fa8c521b)
+![222657240-1fe1f0fc-f68d-4cc0-94ac-e9b733b918c4 (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/369dc93b-7955-4597-ac29-acefa3f9a9d3)
+![222657296-f0ff05e6-a4cc-4653-8fb4-e0c9f3455a61 (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/463dbc59-dc30-4fac-9081-a61a0d904f65)
+![222657345-bef680cd-6230-44f4-93a0-4d88ff88c41f (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/88787440-c96b-4ccc-96f5-976cb6150d11)
+![217467524-63980ca9-a5ee-479e-84d5-1ac8e60a3ac6 (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/394f0157-32da-4584-ac63-352494440b4b)
+![220555743-d0e4094c-97b4-4759-ac49-6ff290c6ffcb (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/ddcc4e60-3436-454d-83f9-c8018e5616c4)
+![220555968-0830d4d7-5166-4df2-9bb9-7c479a47df21 (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/a02dd792-d86b-4ac3-aec9-ec104bc22d49)
+![220556373-eaffc2f4-d22e-40cb-ab9d-96c022e2ba98 (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/e86bbba1-36f3-48c0-8ea7-4d4e46ab8374)
+![220559314-d2df56e3-bac1-493e-8c88-57ff7a24153e (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/3a36216b-bbdd-41c1-9aec-277df56c4ebe)
+![220559226-3d182eb4-2a9a-4b06-87aa-8cdc1621434f (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/c776454b-7afd-4df0-a160-0df7fbae2d38)
+![220559113-87479d2c-3c6b-462a-8bb3-4f6de4ea8c9c (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/1e112d04-7809-4796-811f-90014fa70a96)
+![220560365-057c1556-6f80-4130-b45c-4a75f393f238 (1)](https://github.com/alyysaveleva/6Sem/assets/131712175/bd9085f8-1a00-4cdb-abd7-a9d4c8659aed)
+Задание 4
+![222062860-a3f7b5a1-a010-4c40-8164-5af73f540a3e](https://github.com/alyysaveleva/6Sem/assets/131712175/9f35af56-92cb-4613-9494-fb75c96f2899)
+![222062863-c30b4221-ea0b-43f1-be56-8ec21d5edc09](https://github.com/alyysaveleva/6Sem/assets/131712175/73b9f0fe-9d43-4f12-a5c5-d65bc6fc929e)
+![222062865-5e1e5d41-daac-4ee9-a642-4c12b59816d5](https://github.com/alyysaveleva/6Sem/assets/131712175/4f053332-7f1c-4157-b138-d5aa3e612cc9)
+![222062867-5069a5ef-51ce-4cbf-9dbf-870bc441c845](https://github.com/alyysaveleva/6Sem/assets/131712175/bbdac5f7-a841-4bc3-8b9b-93bf687f7861)
+
+Ready - процесс готов к выполнению, они ждут процессорное время
+Running - выполняется весь квант времени, либо пока не будет вытеснен более приоритетной задачей. Остановленный процесс(Stopped)
+![225222029-a2349b95-b108-436d-b992-c1a065754ce5](https://github.com/alyysaveleva/6Sem/assets/131712175/00e66db5-553d-4c07-814a-420b1641a384)
+Sleeping - процесс в ожидании, пока ожидаемый ресурс станет доступен, вызов функции sleep() состояние процесса Зомби - процесс завершился, но его родитель еще не обработал waitpid(). Ресурсы не занимаются, только дескриптор процесса (чтобы сообщить родителю статус завершения)
+устройства Символьные: последовательный поток данных, имеет всего одну позицию - текущую невозможно обратиться к случайным данным Пример: клавиатура Если устройство позволяет обращаться к данным случайным образом, то это блочное устройство Должны иметь возможность предоставлять доступ по любому адресу в устройстве Память: сектор, блок, страница Очередь содержит список запросов на ввод/вывод и управляющую информацию
+Файловые системы Файловая система, задачи Упорядочивание файлов, контроль доступа, защита данных, интерфейст
+Иерархия
+![225226167-3bbba37c-16e9-42f1-ba34-f58712f5533f](https://github.com/alyysaveleva/6Sem/assets/131712175/0360ef38-a2d0-49cb-989b-4f9154aebe8f)
 
 
 
